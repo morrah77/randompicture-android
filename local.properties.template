@@ -1,0 +1,8 @@
+#If you don't use Android Studio which can automatically generate local.properties file
+# just `cp local.properties.template local.properties` and pecify yor Android SDK location.
+#
+# local.properties file should *NOT* be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+#
+# Specify yor Android SDK location to be used by Gradle.
+sdk.dir=~/Android/Sdk
